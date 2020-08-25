@@ -1,2 +1,5 @@
-# opro-rom-disk
-Orion-Pro ROM-Disk
+# Orion-Pro ROM-Disk
+ROM-Disk для персонального радиолюбительского компьютера Orion-PRO.
+Разработаны участниками форума zx-pk.ru, Vladimir_s и АлександрПП.
+
+Схема в EasyEDA восстановлена восстановлена по исходному файлу платы в DipTrace.  
